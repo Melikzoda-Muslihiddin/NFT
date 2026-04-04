@@ -1,0 +1,84 @@
+{
+  "header": {
+    "discover": "Discover",
+    "creators": "Creators",
+    "sell": "Sell",
+    "stats": "Stats",
+    "searchScroll": "Search Art Work / Creator",
+    "connectWallet": "Connect Wallet"
+  },
+  "footer": {
+    "privacyPolicy": "Privacy Policy",
+    "terms": "Term & Conditions",
+    "aboutUs": "About Us",
+    "contact": "Contact",
+    "rights": "© 2023 DiveSea All Rights Reserved."
+  },
+  "common": {
+    "exploreMore": "Explore More",
+    "createNft": "Create NFT",
+    "searchNft": "Search NFT...",
+    "category": "Category",
+    "collection": "Collection",
+    "price": "Price",
+    "all": "All",
+    "upload": "Upload",
+    "create": "Create",
+    "edit": "Edit",
+    "delete": "Delete",
+    "info": "Info",
+    "add": "Add",
+    "placeBid": "Place Bid",
+    "currentBid": "Current bid",
+    "inStock": "In Stock",
+    "profile": "Profile Page",
+    "manageNfts": "Manage your NFTs here",
+    "exploreAll": "Explore All",
+    "sellArtwork": "Sell Artwork"
+  },
+  "marketplace": {
+    "discoverTitle": "Discover NFTs",
+    "exploreTitle": "Explore Marketplace",
+    "categoryArt": "Art",
+    "categoryCollection": "Collection",
+    "categoryPrice": "Price",
+    "collectionPremium": "Premium",
+    "collectionClassic": "Classic",
+    "collectionSoft": "Soft"
+  },
+  "form": {
+    "title": "Create Your NFT",
+    "name": "Name",
+    "namePlaceholder": "ArtWork Name",
+    "description": "Description",
+    "descriptionPlaceholder": "Enter Your Description",
+    "royalty": "Royalty",
+    "size": "Size",
+    "tags": "Tags",
+    "tagsPlaceholder": "Beautiful, Cool, Monkey, ETC",
+    "price": "Price",
+    "pricePlaceholder": "0.00007 BTC",
+    "inStock": "In Stock",
+    "putOnSale": "Put On Sale",
+    "putOnSaleHint": "People Will Bids On Your NFT Project",
+    "directSale": "Direct Sale",
+    "directSaleHint": "No Bids - Only Direct Selling",
+    "create": "Create",
+    "update": "Update",
+    "createdSuccess": "NFT created successfully",
+    "updatedSuccess": "NFT updated successfully"
+  },
+  "info": {
+    "productDetail": "Product Detail",
+    "project": "Project",
+    "createdBy": "Created by",
+    "ownedBy": "Owned by",
+    "currentBid": "Current Bid",
+    "endIn": "End in",
+    "fromCreator": "From Creator"
+  },
+  "profile": {
+    "title": "Profile Page",
+    "subtitle": "Manage your NFTs here"
+  }
+}

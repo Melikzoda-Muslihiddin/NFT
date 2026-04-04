@@ -1,0 +1,84 @@
+{
+  "header": {
+    "discover": "Кашф",
+    "creators": "Эҷодкорон",
+    "sell": "Фурӯш",
+    "stats": "Омор",
+    "searchScroll": "Ҷустуҷӯи кор / муаллиф",
+    "connectWallet": "Пайваст кардани ҳамён"
+  },
+  "footer": {
+    "privacyPolicy": "Сиёсати махфият",
+    "terms": "Қоида ва шартҳо",
+    "aboutUs": "Дар бораи мо",
+    "contact": "Тамос",
+    "rights": "© 2023 DiveSea Ҳамаи ҳуқуқҳо ҳифз шудаанд."
+  },
+  "common": {
+    "exploreMore": "Бештар дидан",
+    "createNft": "Эҷоди NFT",
+    "searchNft": "Ҷустуҷӯи NFT...",
+    "category": "Категория",
+    "collection": "Коллексия",
+    "price": "Нарх",
+    "all": "Ҳама",
+    "upload": "Боргузорӣ",
+    "create": "Эҷод",
+    "edit": "Таҳрир",
+    "delete": "Нест кардан",
+    "info": "Маълумот",
+    "add": "Илова",
+    "placeBid": "Гузоштани bid",
+    "currentBid": "Bid-и ҷорӣ",
+    "inStock": "Дар анбор",
+    "profile": "Профил",
+    "manageNfts": "NFT-ҳои худро дар ҳамин ҷо идора кун",
+    "exploreAll": "Ҳамаро бин",
+    "sellArtwork": "Фурӯши artwork"
+  },
+  "marketplace": {
+    "discoverTitle": "NFT-ҳоро кашф кун",
+    "exploreTitle": "Маркетплейсро бин",
+    "categoryArt": "Арт",
+    "categoryCollection": "Коллексия",
+    "categoryPrice": "Нарх",
+    "collectionPremium": "Премиум",
+    "collectionClassic": "Классикӣ",
+    "collectionSoft": "Нарм"
+  },
+  "form": {
+    "title": "NFT-и худро эҷод кун",
+    "name": "Ном",
+    "namePlaceholder": "Номи artwork",
+    "description": "Тавсиф",
+    "descriptionPlaceholder": "Тавсифро ворид кун",
+    "royalty": "Royalty",
+    "size": "Андоза",
+    "tags": "Тегҳо",
+    "tagsPlaceholder": "Зебо, сард, monkey ва ғайра",
+    "price": "Нарх",
+    "pricePlaceholder": "0.00007 BTC",
+    "inStock": "Дар анбор",
+    "putOnSale": "Ба фурӯш мондан",
+    "putOnSaleHint": "Одамон метавонанд ба NFT-и ту bid гузоранд",
+    "directSale": "Фурӯши мустақим",
+    "directSaleHint": "Бе bid — танҳо фурӯши мустақим",
+    "create": "Эҷод кардан",
+    "update": "Навсозӣ",
+    "createdSuccess": "NFT бо муваффақият эҷод шуд",
+    "updatedSuccess": "NFT бо муваффақият нав шуд"
+  },
+  "info": {
+    "productDetail": "Тафсилоти маҳсулот",
+    "project": "Лоиҳа",
+    "createdBy": "Эҷодкарда",
+    "ownedBy": "Соҳиб",
+    "currentBid": "Bid-и ҷорӣ",
+    "endIn": "Анҷом меёбад",
+    "fromCreator": "Аз эҷодкор"
+  },
+  "profile": {
+    "title": "Саҳифаи профил",
+    "subtitle": "NFT-ҳои худро дар ҳамин ҷо идора кун"
+  }
+}

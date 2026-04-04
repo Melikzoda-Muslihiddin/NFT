@@ -1,0 +1,84 @@
+{
+  "header": {
+    "discover": "Обзор",
+    "creators": "Авторы",
+    "sell": "Продать",
+    "stats": "Статистика",
+    "searchScroll": "Поиск работы / автора",
+    "connectWallet": "Подключить кошелёк"
+  },
+  "footer": {
+    "privacyPolicy": "Политика конфиденциальности",
+    "terms": "Условия и правила",
+    "aboutUs": "О нас",
+    "contact": "Контакты",
+    "rights": "© 2023 DiveSea Все права защищены."
+  },
+  "common": {
+    "exploreMore": "Смотреть больше",
+    "createNft": "Создать NFT",
+    "searchNft": "Поиск NFT...",
+    "category": "Категория",
+    "collection": "Коллекция",
+    "price": "Цена",
+    "all": "Все",
+    "upload": "Загрузить",
+    "create": "Создать",
+    "edit": "Редактировать",
+    "delete": "Удалить",
+    "info": "Инфо",
+    "add": "Добавить",
+    "placeBid": "Сделать ставку",
+    "currentBid": "Текущая ставка",
+    "inStock": "В наличии",
+    "profile": "Профиль",
+    "manageNfts": "Управляй своими NFT здесь",
+    "exploreAll": "Смотреть всё",
+    "sellArtwork": "Продать арт"
+  },
+  "marketplace": {
+    "discoverTitle": "Открой NFT",
+    "exploreTitle": "Исследуй маркетплейс",
+    "categoryArt": "Арт",
+    "categoryCollection": "Коллекция",
+    "categoryPrice": "Цена",
+    "collectionPremium": "Премиум",
+    "collectionClassic": "Классика",
+    "collectionSoft": "Мягкая"
+  },
+  "form": {
+    "title": "Создать свой NFT",
+    "name": "Название",
+    "namePlaceholder": "Название работы",
+    "description": "Описание",
+    "descriptionPlaceholder": "Введи описание",
+    "royalty": "Роялти",
+    "size": "Размер",
+    "tags": "Теги",
+    "tagsPlaceholder": "Красивый, крутой, обезьяна и т.д.",
+    "price": "Цена",
+    "pricePlaceholder": "0.00007 BTC",
+    "inStock": "В наличии",
+    "putOnSale": "Выставить на продажу",
+    "putOnSaleHint": "Пользователи смогут делать ставки на твой NFT",
+    "directSale": "Прямая продажа",
+    "directSaleHint": "Без ставок — только прямая продажа",
+    "create": "Создать",
+    "update": "Сохранить",
+    "createdSuccess": "NFT успешно создан",
+    "updatedSuccess": "NFT успешно обновлён"
+  },
+  "info": {
+    "productDetail": "Детали продукта",
+    "project": "Проект",
+    "createdBy": "Создатель",
+    "ownedBy": "Владелец",
+    "currentBid": "Текущая ставка",
+    "endIn": "Завершится",
+    "fromCreator": "От создателя"
+  },
+  "profile": {
+    "title": "Страница профиля",
+    "subtitle": "Управляй своими NFT здесь"
+  }
+}

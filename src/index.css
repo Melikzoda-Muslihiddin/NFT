@@ -1,0 +1,94 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+.weeklyTopNftSwiper .swiper-slide {
+  height: auto;
+}
+body {
+  overflow-x: hidden;
+  margin: 0;
+  min-width: 320px;
+  background: #fcfcfd;
+  font-family: sans-serif;
+}
+.faq-collapse .ant-collapse-item {
+  border-bottom: 1px solid #d9d9d9 !important;
+  border-radius: 0 !important;
+}
+
+.faq-collapse .ant-collapse-header {
+  padding: 26px 10px !important;
+  font-size: 18px !important;
+  font-weight: 600 !important;
+  line-height: 28px !important;
+  color: #141416 !important;
+}
+
+.faq-collapse .ant-collapse-content-box {
+  padding: 0 10px 24px 10px !important;
+}
+
+.faq-collapse .ant-collapse-expand-icon {
+  display: flex !important;
+  align-items: center !important;
+}
+
+.faq-collapse .ant-collapse-arrow {
+  font-size: 16px !important;
+  color: white !important;
+  background: #141416 !important;
+  border-radius: 9999px !important;
+  width: 22px !important;
+  height: 22px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+@media (max-width: 768px) {
+  .faq-collapse .ant-collapse-header {
+    padding: 20px 4px !important;
+    font-size: 15px !important;
+    line-height: 24px !important;
+  }
+
+  .faq-collapse .ant-collapse-content-box {
+    padding: 0 4px 18px 4px !important;
+  }
+
+  .faq-collapse .ant-collapse-arrow {
+    width: 20px !important;
+    height: 20px !important;
+    font-size: 14px !important;
+  }
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  font: inherit;
+  cursor: pointer;
+}
+.heroCardsSwiper {
+  overflow: visible !important;
+}
+
+.heroCardsSwiper .swiper {
+  overflow: visible !important;
+}
+
+.heroCardsSwiper .swiper-wrapper {
+  overflow: visible !important;
+}
+
+.heroCardsSwiper .swiper-slide {
+  border-radius: 26px;
+  overflow: hidden;
+  background: transparent;
+}
