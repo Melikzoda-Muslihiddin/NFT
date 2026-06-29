@@ -241,7 +241,7 @@ function InnerCollectorSection() {
               {Array.from({ length: 36 }).map((_, index) => (
                 <span
                   key={index}
-                  className="h-[3px] w-[3px] rounded-full bg-[#D6D6D6]"
+                  className="h-[3px] w-[3px] rounded-full bg-[red]"
                 />
               ))}
             </div>
